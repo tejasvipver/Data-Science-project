@@ -1,0 +1,10 @@
+Objective :- Help an organization to improve employee performance and improve eemployee retention 
+(reduce attrition) by creating a HR Analytics Dashboard.
+
+
+KPI (Key Performance Indicators) :- summary of the Dashboard and it is decided by
+
+Attriton rate :- How many people left the company.
+
+How the KPI are decided from the data ?
+Ans :- By using pivot table and Chart, undergoing each field whether it is making sense to use as KPI like age (at what age group most of the employee is leaving) and some cannot be used like business Travelled (most of the employee left are business rarely travelled.So we cannot use this reason that employee left becoz of more travel opportunity is not there.
